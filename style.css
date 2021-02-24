@@ -11,22 +11,17 @@ body{
 
 header{
     background-color: white;
-    height: 70px;
+    height: 90px;
+    padding: 20px;
 }
 
 img{
     vertical-align: middle;
-    margin-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-
 }
 
 #span-centrato{
     font-weight: bold;
     font-size: 50px;
-    line-height: 50px;
-    height: 50px;
     vertical-align: middle;
     display: inline-block;
 }
@@ -156,3 +151,5 @@ dd{
 .acid-green{
     background-color: #B0C925;
 }
+
+
